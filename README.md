@@ -5,6 +5,12 @@ Web inicial del proyecto **Luis G. Analysis**.
 **Lema:**  
 La memoria falla. Los sistemas permanecen.
 
+## Estado
+
+Versión actual en desarrollo: **Web V1.1**.
+
+La web funciona como portada pública del sistema y como punto de entrada a la futura biblioteca digital.
+
 ## Objetivo
 
 Este repositorio contiene la versión web estática de la biblioteca Luis G. Analysis.
@@ -25,7 +31,13 @@ luis-g-analysis-web/
 │   └── js/
 ├── downloads/
 └── docs/
+    └── guia-inicial-v0-1.html
 ```
+
+## Páginas actuales
+
+- `index.html`: landing principal.
+- `docs/guia-inicial-v0-1.html`: primera guía web del proyecto.
 
 ## Despliegue
 
@@ -35,6 +47,15 @@ Ruta configurada:
 
 ```text
 /home/lstocks3/analisis.luisguacache.com/
+```
+
+Flujo operativo:
+
+```text
+1. Cambios en GitHub.
+2. cPanel → Update from Remote.
+3. cPanel → Deploy HEAD Commit.
+4. Verificación en https://analisis.luisguacache.com
 ```
 
 ## Nota importante
