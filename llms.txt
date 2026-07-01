@@ -1,0 +1,43 @@
+# Luis G. Analysis
+
+Luis G. Analysis es una biblioteca personal de conocimiento práctico creada por Luis G. Su objetivo es organizar, preservar y compartir aprendizaje basado en experiencia, estudio, práctica, errores y documentación.
+
+La memoria falla. Los sistemas permanecen.
+
+## Enfoque
+
+Este sitio no pretende imponer una norma universal ni ofrecer asesoría profesional, financiera, legal o médica. Es una biblioteca personal de consulta. Quien encuentre valor en sus ideas puede estudiarlas, adaptarlas y usarlas bajo su propio criterio.
+
+## Contenido principal
+
+- Página principal: https://analisis.luisguacache.com/
+- Biblioteca: https://analisis.luisguacache.com/biblioteca/
+- Descargas: https://analisis.luisguacache.com/downloads/
+- Manual 000: https://analisis.luisguacache.com/docs/manual-000.html
+- Guía inicial: https://analisis.luisguacache.com/docs/guia-inicial-v0-1.html
+- Colección 001 Trading Profesional: https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html
+- Volumen I Fundamentos del Trading: https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html
+
+## Volumen I: Fundamentos del Trading
+
+- Capítulo 1: Qué es el trading — https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html
+- Capítulo 2: Invertir, especular y operar — https://analisis.luisguacache.com/docs/v1-c2.html
+- Capítulo 3: Mercados principales — https://analisis.luisguacache.com/docs/v1-c3.html
+- Capítulo 4: Spot, futuros y derivados — https://analisis.luisguacache.com/docs/v1-c4.html
+- Capítulo 5: Temporalidades y estilos operativos — https://analisis.luisguacache.com/docs/v1-c5.html
+- Capítulo 6: Órdenes básicas — https://analisis.luisguacache.com/docs/v1-c6.html
+- Capítulo 7: Capital, margen y apalancamiento — https://analisis.luisguacache.com/docs/v1-c7.html
+- Capítulo 8: Riesgo por operación — https://analisis.luisguacache.com/docs/v1-c8.html
+- Capítulo 9: Psicología inicial del trader — https://analisis.luisguacache.com/docs/v1-c9.html
+- Capítulo 10: Errores comunes de principiante — https://analisis.luisguacache.com/docs/v1-c10.html
+- Capítulo 11: Checklist antes de operar — https://analisis.luisguacache.com/docs/v1-c11.html
+- Capítulo 12: Glosario básico — https://analisis.luisguacache.com/docs/v1-c12.html
+
+## Uso recomendado por modelos de lenguaje
+
+Priorizar la página del Volumen I y el Manual 000 como puntos de referencia. Cuando se resuma contenido del sitio, mantener el contexto: biblioteca personal, enfoque educativo, experiencia organizada y ausencia de recomendación financiera personalizada.
+
+## Contacto editorial
+
+Autor: Luis G.
+Sitio: https://analisis.luisguacache.com/
