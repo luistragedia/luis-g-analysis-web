@@ -1,0 +1,9 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/lstocks3/analisis.luisguacache.com/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp README.md $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH
+    - /bin/cp -R downloads $DEPLOYPATH
+    - /bin/cp -R docs $DEPLOYPATH
