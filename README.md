@@ -73,6 +73,18 @@ Flujo operativo:
 4. Verificación en https://analisis.luisguacache.com
 ```
 
+## Revisión previa al despliegue
+
+Antes de fusionar una actualización a `main`, revisar:
+
+```text
+- Ortografía y acentuación.
+- Enlaces internos.
+- Visualización en móvil.
+- Archivos incluidos en .cpanel.yml.
+- Ausencia de datos privados o sensibles.
+```
+
 ## Nota importante
 
 No subir contraseñas, claves privadas, tokens, datos personales sensibles ni archivos internos no publicables.
