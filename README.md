@@ -5,6 +5,12 @@ Web inicial del proyecto **Luis G. Analysis**.
 **Lema:**  
 La memoria falla. Los sistemas permanecen.
 
+## Estado
+
+Versión actual en desarrollo: **Web V1.1**.
+
+La web funciona como portada pública del sistema y como punto de entrada a la futura biblioteca digital.
+
 ## Objetivo
 
 Este repositorio contiene la versión web estática de la biblioteca Luis G. Analysis.
@@ -19,13 +25,40 @@ luis-g-analysis-web/
 ├── favicon.png
 ├── README.md
 ├── .cpanel.yml
+├── .htaccess
+├── robots.txt
+├── sitemap.xml
+├── 404.html
 ├── assets/
 │   ├── css/
 │   ├── img/
 │   └── js/
+├── biblioteca/
+│   └── index.html
 ├── downloads/
+│   └── index.html
 └── docs/
+    ├── guia-inicial-v0-1.html
+    ├── manual-000.html
+    └── lista-verificacion-editorial.html
 ```
+
+## Páginas actuales
+
+- `index.html`: landing principal.
+- `biblioteca/index.html`: índice inicial de la biblioteca digital.
+- `docs/guia-inicial-v0-1.html`: primera guía web del proyecto.
+- `docs/manual-000.html`: página inicial del documento fundador.
+- `docs/lista-verificacion-editorial.html`: herramienta editorial básica.
+- `downloads/index.html`: centro de descargas preparado para futuros PDF, EPUB y listas de verificación.
+- `404.html`: página de error personalizada.
+
+## Archivos técnicos
+
+- `robots.txt`: reglas básicas de rastreo.
+- `sitemap.xml`: mapa inicial del sitio.
+- `.htaccess`: configuración básica de Apache para error 404 y cabeceras mínimas.
+- `.cpanel.yml`: instrucciones de despliegue hacia cPanel.
 
 ## Despliegue
 
@@ -35,6 +68,27 @@ Ruta configurada:
 
 ```text
 /home/lstocks3/analisis.luisguacache.com/
+```
+
+Flujo operativo:
+
+```text
+1. Cambios en GitHub.
+2. cPanel → Update from Remote.
+3. cPanel → Deploy HEAD Commit.
+4. Verificación en https://analisis.luisguacache.com
+```
+
+## Revisión previa al despliegue
+
+Antes de fusionar una actualización a `main`, revisar:
+
+```text
+- Ortografía y acentuación.
+- Enlaces internos.
+- Visualización en móvil.
+- Archivos incluidos en .cpanel.yml.
+- Ausencia de datos privados o sensibles.
 ```
 
 ## Nota importante
