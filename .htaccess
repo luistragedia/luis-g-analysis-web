@@ -1,8 +1,12 @@
 ErrorDocument 404 /404.html
 
+AddDefaultCharset UTF-8
+AddCharset UTF-8 .html .htm .txt .xml .css .js
+AddType "text/plain; charset=UTF-8" .txt
+AddType "text/html; charset=UTF-8" .html .htm
+AddType "application/xml; charset=UTF-8" .xml
 AddType application/epub+zip .epub
 AddType application/pdf .pdf
-AddType text/plain .txt
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
