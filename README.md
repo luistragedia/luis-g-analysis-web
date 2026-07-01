@@ -25,11 +25,17 @@ luis-g-analysis-web/
 ├── favicon.png
 ├── README.md
 ├── .cpanel.yml
+├── robots.txt
+├── sitemap.xml
+├── 404.html
 ├── assets/
 │   ├── css/
 │   ├── img/
 │   └── js/
+├── biblioteca/
+│   └── index.html
 ├── downloads/
+│   └── index.html
 └── docs/
     └── guia-inicial-v0-1.html
 ```
@@ -37,7 +43,16 @@ luis-g-analysis-web/
 ## Páginas actuales
 
 - `index.html`: landing principal.
+- `biblioteca/index.html`: índice inicial de la biblioteca digital.
 - `docs/guia-inicial-v0-1.html`: primera guía web del proyecto.
+- `downloads/index.html`: centro de descargas preparado para futuros PDF, EPUB y listas de verificación.
+- `404.html`: página de error personalizada.
+
+## Archivos técnicos
+
+- `robots.txt`: reglas básicas de rastreo.
+- `sitemap.xml`: mapa inicial del sitio.
+- `.cpanel.yml`: instrucciones de despliegue hacia cPanel.
 
 ## Despliegue
 
