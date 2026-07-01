@@ -3,59 +3,222 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Manual 000 de Luis G. Analysis: filosofía, estándares editoriales y reglas base de la biblioteca." />
+  <meta name="description" content="Manual 000 de Luis G. Analysis: filosofía, estándares editoriales, estructura documental y reglas base de la biblioteca." />
   <link rel="icon" type="image/png" href="../favicon.png" />
   <title>Manual 000 | Luis G. Analysis</title>
   <style>
-    :root { --bg:#0b0f17; --text:#f5f7fb; --muted:#a8b3c7; --line:rgba(255,255,255,.12); --accent:#d4af37; --max:960px; --radius:22px; }
+    :root { --bg:#0b0f17; --text:#f5f7fb; --muted:#a8b3c7; --line:rgba(255,255,255,.12); --accent:#d4af37; --max:980px; --radius:22px; }
     * { box-sizing:border-box; }
+    html { scroll-behavior:smooth; }
     body { margin:0; font-family:Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background:radial-gradient(circle at 18% 0%, rgba(212,175,55,.12), transparent 28%), var(--bg); color:var(--text); line-height:1.7; }
     a { color:var(--accent); text-decoration:none; }
     .wrap { width:min(100% - 40px, var(--max)); margin:0 auto; padding:56px 0; }
     h1 { font-size:clamp(2.5rem,7vw,5rem); line-height:.95; letter-spacing:-.07em; margin:0 0 18px; }
-    h2 { font-size:clamp(1.6rem,4vw,2.7rem); line-height:1.1; letter-spacing:-.04em; margin:48px 0 14px; }
+    h2 { font-size:clamp(1.55rem,4vw,2.55rem); line-height:1.1; letter-spacing:-.04em; margin:48px 0 14px; }
+    h3 { margin:28px 0 10px; }
     p, li { color:var(--muted); }
+    li { margin:8px 0; }
     .badge { display:inline-flex; border:1px solid var(--line); border-radius:999px; padding:8px 14px; color:var(--muted); margin-bottom:18px; }
-    .card { border:1px solid var(--line); border-radius:var(--radius); background:rgba(255,255,255,.045); padding:24px; margin:22px 0; }
+    .card, .toc, .note { border:1px solid var(--line); border-radius:var(--radius); background:rgba(255,255,255,.045); padding:24px; margin:22px 0; }
     .quote { border-left:3px solid var(--accent); padding-left:18px; color:var(--text); font-weight:800; font-size:1.35rem; margin:28px 0; }
+    .meta { display:grid; grid-template-columns:repeat(2,1fr); gap:12px; margin:24px 0; }
+    .meta div { border:1px solid var(--line); border-radius:16px; padding:14px; background:rgba(255,255,255,.035); color:var(--muted); }
+    .meta strong { color:var(--text); display:block; }
+    .toc ol { columns:2; padding-left:22px; }
+    .note { border-color:rgba(212,175,55,.35); background:rgba(212,175,55,.08); }
+    table { width:100%; border-collapse:collapse; margin:18px 0; overflow:hidden; border-radius:16px; }
+    th, td { border:1px solid var(--line); padding:12px; text-align:left; vertical-align:top; color:var(--muted); }
+    th { color:var(--text); background:rgba(255,255,255,.06); }
     footer { border-top:1px solid var(--line); margin-top:56px; padding-top:24px; color:var(--muted); }
+    @media (max-width:760px) { .meta { grid-template-columns:1fr; } .toc ol { columns:1; } }
   </style>
 </head>
 <body>
   <main class="wrap">
     <p><a href="../index.html">← Volver al inicio</a> · <a href="../biblioteca/">Biblioteca</a></p>
-    <span class="badge">Documento base · En desarrollo</span>
+    <span class="badge">Documento base · Versión 0.2</span>
     <h1>Manual 000: Filosofía y Estándares</h1>
-    <p>Documento fundador de Luis G. Analysis. Define la forma en que la biblioteca debe crecer, escribirse, revisarse y publicarse.</p>
+    <p>Documento fundador de Luis G. Analysis. Define la forma en que la biblioteca debe crecer, escribirse, revisarse, versionarse y publicarse.</p>
     <div class="quote">Antes de construir una biblioteca grande, hay que definir cómo se conserva el conocimiento.</div>
 
     <section class="card">
-      <h2>Estado del documento</h2>
-      <p>Esta página funciona como marcador público inicial. El contenido completo del Manual 000 se desarrollará por versiones y servirá como norma editorial para todos los libros, manuales y guías del proyecto.</p>
+      <h2>Ficha del documento</h2>
+      <div class="meta">
+        <div><strong>Proyecto</strong>Luis G. Analysis</div>
+        <div><strong>Versión</strong>0.2</div>
+        <div><strong>Estado</strong>Documento base ampliado</div>
+        <div><strong>Uso</strong>Personal, educativo y de consulta</div>
+      </div>
     </section>
 
-    <section>
-      <h2>Objetivo</h2>
-      <p>El objetivo del Manual 000 es establecer un estándar claro para que cada documento de Luis G. Analysis sea útil, ordenado, revisable y sostenible a largo plazo.</p>
+    <section class="toc">
+      <h2>Índice</h2>
+      <ol>
+        <li><a href="#proposito">Propósito</a></li>
+        <li><a href="#filosofia">Filosofía central</a></li>
+        <li><a href="#principios">Principios editoriales</a></li>
+        <li><a href="#estructura">Estructura estándar</a></li>
+        <li><a href="#categorias">Categorías de la biblioteca</a></li>
+        <li><a href="#formatos">Formatos oficiales</a></li>
+        <li><a href="#versionado">Versionado</a></li>
+        <li><a href="#flujo">Flujo de trabajo</a></li>
+        <li><a href="#calidad">Criterios de calidad</a></li>
+        <li><a href="#seguridad">Seguridad y privacidad</a></li>
+        <li><a href="#checklist">Lista de verificación</a></li>
+        <li><a href="#historial">Historial</a></li>
+      </ol>
     </section>
 
-    <section>
-      <h2>Principios base</h2>
+    <section id="proposito">
+      <h2>1. Propósito</h2>
+      <p>Luis G. Analysis nace para convertir conocimiento disperso en un sistema organizado, claro y reutilizable. Su función no es acumular notas sin orden, sino construir una biblioteca de referencia que pueda consultarse meses o años después.</p>
+      <p>La biblioteca debe reunir manuales, guías, documentos técnicos, lecciones aprendidas, listas de verificación, recursos y versiones descargables de los temas importantes para el aprendizaje, el trabajo, los proyectos personales y la toma de decisiones.</p>
+    </section>
+
+    <section id="filosofia">
+      <h2>2. Filosofía central</h2>
+      <p>La filosofía principal del proyecto se resume en una frase:</p>
+      <div class="quote">La memoria falla. Los sistemas permanecen.</div>
+      <p>La memoria personal es limitada. Una conversación se pierde, una idea se olvida y una solución puede quedar enterrada entre mensajes. Un sistema bien documentado permite conservar lo aprendido, repetir procesos, evitar errores y mejorar con cada versión.</p>
+    </section>
+
+    <section id="principios">
+      <h2>3. Principios editoriales</h2>
       <ul>
-        <li>Claridad antes que complejidad.</li>
-        <li>Utilidad práctica antes que acumulación de información.</li>
-        <li>Ortografía, acentuación y puntuación cuidadas.</li>
-        <li>Versionado progresivo.</li>
-        <li>Estructura uniforme para facilitar consulta y expansión.</li>
+        <li><strong>Claridad:</strong> todo documento debe poder entenderse sin esfuerzo innecesario.</li>
+        <li><strong>Utilidad práctica:</strong> el contenido debe ayudar a decidir, ejecutar, aprender o consultar.</li>
+        <li><strong>Orden:</strong> cada tema debe tener una estructura lógica y fácil de navegar.</li>
+        <li><strong>Precisión:</strong> evitar afirmaciones dudosas, exageradas o sin contexto.</li>
+        <li><strong>Consistencia:</strong> usar términos, formatos y criterios similares en toda la biblioteca.</li>
+        <li><strong>Actualización:</strong> los documentos deben poder mejorar por versiones.</li>
+        <li><strong>Seguridad:</strong> no publicar datos sensibles, credenciales ni información privada.</li>
       </ul>
     </section>
 
-    <section>
-      <h2>Estructura documental recomendada</h2>
-      <p>Portada, índice, introducción, conceptos fundamentales, desarrollo, guías paso a paso, ejemplos, buenas prácticas, errores comunes, casos de uso, preguntas frecuentes, glosario, resumen ejecutivo, lista de verificación, recursos adicionales e historial de versiones.</p>
+    <section id="estructura">
+      <h2>4. Estructura estándar de documentos</h2>
+      <p>Cuando el tema lo permita, los documentos de Luis G. Analysis deberán seguir esta estructura:</p>
+      <table>
+        <tr><th>Sección</th><th>Función</th></tr>
+        <tr><td>Portada</td><td>Título, versión, fecha, autor y estado.</td></tr>
+        <tr><td>Índice</td><td>Mapa rápido de capítulos y secciones.</td></tr>
+        <tr><td>Introducción</td><td>Qué es el tema, para qué sirve y a quién va dirigido.</td></tr>
+        <tr><td>Conceptos fundamentales</td><td>Base teórica necesaria para entender el contenido.</td></tr>
+        <tr><td>Desarrollo</td><td>Explicación principal organizada por capítulos.</td></tr>
+        <tr><td>Guías paso a paso</td><td>Procedimientos claros desde el inicio hasta el final.</td></tr>
+        <tr><td>Ejemplos</td><td>Casos básicos, intermedios, avanzados o reales.</td></tr>
+        <tr><td>Buenas prácticas</td><td>Recomendaciones para obtener mejores resultados.</td></tr>
+        <tr><td>Errores comunes</td><td>Problemas frecuentes y cómo evitarlos.</td></tr>
+        <tr><td>Resumen ejecutivo</td><td>Síntesis de los puntos más importantes.</td></tr>
+        <tr><td>Lista de verificación</td><td>Revisión rápida antes de aplicar o publicar.</td></tr>
+        <tr><td>Historial</td><td>Registro de cambios importantes.</td></tr>
+      </table>
     </section>
 
-    <footer>Luis G. Analysis · Manual 000 en desarrollo.</footer>
+    <section id="categorias">
+      <h2>5. Categorías iniciales</h2>
+      <p>La biblioteca se organizará por áreas para facilitar la consulta y evitar mezclar temas sin criterio.</p>
+      <ul>
+        <li>Mercados y Análisis.</li>
+        <li>Psicología.</li>
+        <li>Inteligencia Artificial.</li>
+        <li>Desarrollo.</li>
+        <li>OrderFlowX.</li>
+        <li>Finanzas.</li>
+        <li>Web.</li>
+        <li>Recursos.</li>
+        <li>Audiolibros.</li>
+        <li>Laboratorio.</li>
+        <li>Lecciones Aprendidas.</li>
+      </ul>
+    </section>
+
+    <section id="formatos">
+      <h2>6. Formatos oficiales</h2>
+      <table>
+        <tr><th>Formato</th><th>Uso recomendado</th></tr>
+        <tr><td>Web</td><td>Consulta rápida, navegación, actualización continua y enlaces internos.</td></tr>
+        <tr><td>PDF</td><td>Archivo fijo, descarga, impresión y lectura estructurada.</td></tr>
+        <tr><td>EPUB</td><td>Lectura cómoda en móviles, tablets y lectores electrónicos.</td></tr>
+        <tr><td>Audiolibro</td><td>Escucha y repaso, adaptado al formato oral.</td></tr>
+        <tr><td>Resumen ejecutivo</td><td>Comprensión rápida de ideas clave.</td></tr>
+        <tr><td>Lista de verificación</td><td>Aplicación práctica y control de calidad.</td></tr>
+      </table>
+    </section>
+
+    <section id="versionado">
+      <h2>7. Sistema de versionado</h2>
+      <p>Los documentos no necesitan nacer perfectos. Deben nacer claros y mejorar por versiones.</p>
+      <ul>
+        <li><strong>V0.1:</strong> primera versión útil.</li>
+        <li><strong>V0.2:</strong> ampliación estructural.</li>
+        <li><strong>V0.5:</strong> documento sólido pero todavía en revisión.</li>
+        <li><strong>V1.0:</strong> primera versión estable.</li>
+        <li><strong>V1.1 o superior:</strong> mejoras, correcciones y actualizaciones.</li>
+      </ul>
+    </section>
+
+    <section id="flujo">
+      <h2>8. Flujo de trabajo editorial</h2>
+      <ol>
+        <li>Definir el objetivo del documento.</li>
+        <li>Crear una estructura base.</li>
+        <li>Redactar una versión inicial útil.</li>
+        <li>Revisar claridad, ortografía y coherencia.</li>
+        <li>Publicar versión web.</li>
+        <li>Crear versión PDF cuando el contenido esté suficientemente estable.</li>
+        <li>Actualizar el índice de la biblioteca y la página de descargas si corresponde.</li>
+        <li>Registrar cambios en el historial de versiones.</li>
+      </ol>
+    </section>
+
+    <section id="calidad">
+      <h2>9. Criterios de calidad</h2>
+      <p>Un documento se considera aceptable cuando cumple estos criterios:</p>
+      <ul>
+        <li>El tema está claramente definido.</li>
+        <li>La estructura permite encontrar información con facilidad.</li>
+        <li>El texto tiene buena ortografía y acentuación.</li>
+        <li>Las explicaciones son suficientes para entender y aplicar.</li>
+        <li>No contiene relleno innecesario.</li>
+        <li>Incluye ejemplos, pasos o criterios cuando aportan valor.</li>
+        <li>No contiene información privada o sensible.</li>
+      </ul>
+    </section>
+
+    <section id="seguridad">
+      <h2>10. Seguridad y privacidad</h2>
+      <div class="note">
+        <p><strong>Regla obligatoria:</strong> no publicar contraseñas, claves API, tokens, datos bancarios, documentos personales, rutas privadas sensibles, configuraciones críticas ni información que pueda comprometer cuentas, servidores o proyectos.</p>
+      </div>
+      <p>Cuando un documento requiera explicar procesos técnicos, se deberán usar ejemplos genéricos, rutas ficticias o datos anonimizados.</p>
+    </section>
+
+    <section id="checklist">
+      <h2>11. Lista de verificación antes de publicar</h2>
+      <ul>
+        <li>El título es claro.</li>
+        <li>La versión está indicada.</li>
+        <li>La introducción explica el propósito.</li>
+        <li>La estructura está ordenada.</li>
+        <li>La ortografía fue revisada.</li>
+        <li>Los enlaces funcionan.</li>
+        <li>No hay datos sensibles.</li>
+        <li>El documento aporta valor práctico.</li>
+        <li>El historial de versiones está actualizado.</li>
+      </ul>
+    </section>
+
+    <section id="historial">
+      <h2>12. Historial de versiones</h2>
+      <table>
+        <tr><th>Versión</th><th>Cambio</th></tr>
+        <tr><td>0.1</td><td>Marcador inicial del Manual 000.</td></tr>
+        <tr><td>0.2</td><td>Ampliación con filosofía, estructura, formatos, versionado, flujo editorial, seguridad y lista de verificación.</td></tr>
+      </table>
+    </section>
+
+    <footer>Luis G. Analysis · Manual 000 · La memoria falla. Los sistemas permanecen.</footer>
   </main>
 </body>
 </html>
