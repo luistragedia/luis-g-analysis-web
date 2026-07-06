@@ -11,7 +11,7 @@ Web pública: operativa
 Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
-EPUB/Kindle: Volumen I completo disponible
+EPUB/Kindle: Volumen I y Volumen II disponibles
 SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 ```
 
@@ -35,7 +35,7 @@ El sitio funciona como portada pública, índice navegable, centro de descargas 
 
 ### Volumen I — Fundamentos del Trading
 
-Estado: completo en versión base V0.2.
+Estado: completo en versión base V0.2. Disponible como lectura web y EPUB/Kindle.
 
 ```text
 1. Qué es el trading
@@ -52,11 +52,9 @@ Estado: completo en versión base V0.2.
 12. Glosario básico
 ```
 
-Disponible como lectura web y EPUB/Kindle.
-
 ### Volumen II — Análisis Técnico Profesional
 
-Estado: completo en versión base V0.1.
+Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
 ```text
 1. Qué es el análisis técnico
@@ -76,7 +74,7 @@ Estado: completo en versión base V0.1.
 ## Ruta futura
 
 ```text
-- EPUB/Kindle del Volumen II.
+- PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - Volumen III: Smart Money, Liquidez y Order Flow.
 - Interacción y feedback V1: me gusta, no me gusta y compartir cuando exista una primera versión completa del site.
