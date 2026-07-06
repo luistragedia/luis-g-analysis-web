@@ -36,11 +36,24 @@ Este sitio es una biblioteca personal de consulta. Quien encuentre valor en sus 
 
 ## Volumen II: Análisis Técnico Profesional
 
+Volumen completo en versión base V0.1.
+
 - Capítulo 1: Qué es el análisis técnico — https://analisis.luisguacache.com/docs/v2-c1.html
 - Capítulo 2: Precio, velas y lectura básica — https://analisis.luisguacache.com/docs/v2-c2.html
 - Capítulo 3: Tendencias — https://analisis.luisguacache.com/docs/v2-c3.html
 - Capítulo 4: Soportes y resistencias — https://analisis.luisguacache.com/docs/v2-c4.html
 - Capítulo 5: Máximos, mínimos y estructura — https://analisis.luisguacache.com/docs/v2-c5.html
+- Capítulo 6: Volumen — https://analisis.luisguacache.com/docs/v2-c6.html
+- Capítulo 7: Medias móviles — https://analisis.luisguacache.com/docs/v2-c7.html
+- Capítulo 8: RSI, MACD y otros indicadores — https://analisis.luisguacache.com/docs/v2-c8.html
+- Capítulo 9: Patrones gráficos — https://analisis.luisguacache.com/docs/v2-c9.html
+- Capítulo 10: Rupturas y falsas rupturas — https://analisis.luisguacache.com/docs/v2-c10.html
+- Capítulo 11: Contexto multi-temporal — https://analisis.luisguacache.com/docs/v2-c11.html
+- Capítulo 12: Checklist de análisis técnico — https://analisis.luisguacache.com/docs/v2-c12.html
+
+## Ruta futura
+
+- Interacción y feedback V1: botones de me gusta, no me gusta y compartir cuando el sitio tenga una primera versión completa.
 
 ## Uso recomendado por modelos de lenguaje
 
