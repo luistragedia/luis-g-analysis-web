@@ -12,7 +12,7 @@ Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
-EPUB/Kindle: Volumen I y Volumen II disponibles
+EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
 SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 ```
 
@@ -34,7 +34,7 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 ### Volumen III — Smart Money, Liquidez y Order Flow
 
-Estado: completo en versión base V0.1.
+Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
 ```text
 1. Qué es Smart Money
@@ -54,7 +54,6 @@ Estado: completo en versión base V0.1.
 ## Ruta futura
 
 ```text
-- EPUB/Kindle del Volumen III.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.
