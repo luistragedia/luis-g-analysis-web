@@ -11,7 +11,7 @@ Web pública: operativa
 Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
-Volumen III: Smart Money, Liquidez y Order Flow — iniciado
+Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
 EPUB/Kindle: Volumen I y Volumen II disponibles
 SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 ```
@@ -21,17 +21,6 @@ SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 Este repositorio contiene la versión web estática de una biblioteca personal de conocimiento práctico creada para organizar, preservar y compartir aprendizaje basado en experiencia, estudio, práctica, errores y documentación.
 
 El sitio funciona como portada pública, índice navegable, centro de descargas y base editorial para libros digitales, manuales y guías.
-
-## Páginas principales
-
-- `index.html`: portada pública.
-- `biblioteca/index.html`: índice de la biblioteca.
-- `downloads/index.html`: centro de descargas.
-- `docs/manual-000.html`: documento base del proyecto.
-- `docs/coleccion-001-trading-profesional.html`: colección de trading.
-- `docs/volumen-001-fundamentos-trading.html`: Volumen I completo.
-- `docs/volumen-002-analisis-tecnico-profesional.html`: Volumen II completo base.
-- `docs/volumen-003-smart-money-liquidez-order-flow.html`: Volumen III en desarrollo.
 
 ## Colección 001
 
@@ -45,28 +34,33 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 ### Volumen III — Smart Money, Liquidez y Order Flow
 
-Estado: iniciado.
+Estado: completo en versión base V0.1.
 
 ```text
 1. Qué es Smart Money
+2. Liquidez: qué es y por qué importa
+3. Stops, barridas y capturas de liquidez
+4. Fair Value Gaps
+5. Order Blocks
+6. Breakers y Mitigation Blocks
+7. Estructura interna y externa
+8. Reacción institucional
+9. Order Flow básico
+10. Confluencias avanzadas
+11. Errores comunes con Smart Money
+12. Checklist de lectura avanzada
 ```
 
 ## Ruta futura
 
 ```text
+- EPUB/Kindle del Volumen III.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
-- Completar Volumen III.
-- Interacción y feedback V1: me gusta, no me gusta y compartir cuando exista una primera versión completa del site.
+- PDF completo del Volumen III.
+- Volumen IV: Estrategias Operativas.
+- Interacción y feedback V1.
 ```
-
-## Archivos técnicos
-
-- `robots.txt`: reglas de rastreo.
-- `sitemap.xml`: mapa del sitio.
-- `llms.txt`: guía resumida para modelos de lenguaje e IAs.
-- `.htaccess`: configuración de servidor y codificación UTF-8.
-- `.cpanel.yml`: despliegue hacia hosting.
 
 ## Flujo de despliegue
 
@@ -77,16 +71,6 @@ Estado: iniciado.
 4. Update from Remote en hosting.
 5. Deploy HEAD Commit.
 6. Verificación en https://analisis.luisguacache.com
-```
-
-## Revisión antes de publicar
-
-```text
-- Ortografía y acentuación.
-- Enlaces internos.
-- Visualización en móvil.
-- Archivos incluidos en el despliegue cuando aplique.
-- Sitemap y llms.txt actualizados cuando se añadan páginas importantes.
 ```
 
 ## Nota editorial
