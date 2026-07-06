@@ -65,6 +65,9 @@ Capítulos publicados:
 ```text
 1. Qué es el análisis técnico
 2. Precio, velas y lectura básica
+3. Tendencias
+4. Soportes y resistencias
+5. Máximos, mínimos y estructura
 ```
 
 ## Archivos técnicos

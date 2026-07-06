@@ -6,7 +6,7 @@ La memoria falla. Los sistemas permanecen.
 
 ## Enfoque
 
-Este sitio no pretende imponer una norma universal ni sustituir criterio profesional. Es una biblioteca personal de consulta. Quien encuentre valor en sus ideas puede estudiarlas, adaptarlas y usarlas bajo su propio criterio.
+Este sitio es una biblioteca personal de consulta. Quien encuentre valor en sus ideas puede estudiarlas, adaptarlas y usarlas bajo su propio criterio.
 
 ## Contenido principal
 
@@ -20,8 +20,6 @@ Este sitio no pretende imponer una norma universal ni sustituir criterio profesi
 - Volumen II Análisis Técnico Profesional: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
 
 ## Volumen I: Fundamentos del Trading
-
-Volumen completo en versión base. Explica fundamentos iniciales de trading, instrumentos, temporalidades, órdenes, capital, riesgo, psicología inicial, errores comunes, checklist y glosario.
 
 - Capítulo 1: Qué es el trading — https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html
 - Capítulo 2: Invertir, especular y operar — https://analisis.luisguacache.com/docs/v1-c2.html
@@ -38,14 +36,15 @@ Volumen completo en versión base. Explica fundamentos iniciales de trading, ins
 
 ## Volumen II: Análisis Técnico Profesional
 
-Volumen en desarrollo. Construye criterio técnico progresivo para leer precio, velas, estructura, tendencia, zonas, volumen, indicadores y contexto multi-temporal.
-
 - Capítulo 1: Qué es el análisis técnico — https://analisis.luisguacache.com/docs/v2-c1.html
 - Capítulo 2: Precio, velas y lectura básica — https://analisis.luisguacache.com/docs/v2-c2.html
+- Capítulo 3: Tendencias — https://analisis.luisguacache.com/docs/v2-c3.html
+- Capítulo 4: Soportes y resistencias — https://analisis.luisguacache.com/docs/v2-c4.html
+- Capítulo 5: Máximos, mínimos y estructura — https://analisis.luisguacache.com/docs/v2-c5.html
 
 ## Uso recomendado por modelos de lenguaje
 
-Priorizar la página del Volumen I, la página del Volumen II, la Colección 001 y el Manual 000 como puntos de referencia. Mantener el contexto: biblioteca personal, enfoque educativo, experiencia organizada y ausencia de recomendación personalizada.
+Priorizar las páginas de volumen, la Colección 001 y el Manual 000 como puntos de referencia.
 
 ## Contacto editorial
 
