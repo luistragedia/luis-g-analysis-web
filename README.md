@@ -11,6 +11,7 @@ Web pública: operativa
 Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
+Volumen III: Smart Money, Liquidez y Order Flow — iniciado
 EPUB/Kindle: Volumen I y Volumen II disponibles
 SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 ```
@@ -30,6 +31,7 @@ El sitio funciona como portada pública, índice navegable, centro de descargas 
 - `docs/coleccion-001-trading-profesional.html`: colección de trading.
 - `docs/volumen-001-fundamentos-trading.html`: Volumen I completo.
 - `docs/volumen-002-analisis-tecnico-profesional.html`: Volumen II completo base.
+- `docs/volumen-003-smart-money-liquidez-order-flow.html`: Volumen III en desarrollo.
 
 ## Colección 001
 
@@ -37,38 +39,16 @@ El sitio funciona como portada pública, índice navegable, centro de descargas 
 
 Estado: completo en versión base V0.2. Disponible como lectura web y EPUB/Kindle.
 
-```text
-1. Qué es el trading
-2. Invertir, especular y operar
-3. Mercados principales
-4. Spot, futuros y derivados
-5. Temporalidades y estilos operativos
-6. Órdenes básicas
-7. Capital, margen y apalancamiento
-8. Riesgo por operación
-9. Psicología inicial del trader
-10. Errores comunes de principiante
-11. Checklist antes de operar
-12. Glosario básico
-```
-
 ### Volumen II — Análisis Técnico Profesional
 
 Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
+### Volumen III — Smart Money, Liquidez y Order Flow
+
+Estado: iniciado.
+
 ```text
-1. Qué es el análisis técnico
-2. Precio, velas y lectura básica
-3. Tendencias
-4. Soportes y resistencias
-5. Máximos, mínimos y estructura
-6. Volumen
-7. Medias móviles
-8. RSI, MACD y otros indicadores
-9. Patrones gráficos
-10. Rupturas y falsas rupturas
-11. Contexto multi-temporal
-12. Checklist de análisis técnico
+1. Qué es Smart Money
 ```
 
 ## Ruta futura
@@ -76,7 +56,7 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 ```text
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
-- Volumen III: Smart Money, Liquidez y Order Flow.
+- Completar Volumen III.
 - Interacción y feedback V1: me gusta, no me gusta y compartir cuando exista una primera versión completa del site.
 ```
 
