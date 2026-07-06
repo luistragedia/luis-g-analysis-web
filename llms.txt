@@ -14,42 +14,24 @@ Este sitio es una biblioteca personal de consulta. Quien encuentre valor en sus 
 - Biblioteca: https://analisis.luisguacache.com/biblioteca/
 - Descargas: https://analisis.luisguacache.com/downloads/
 - Manual 000: https://analisis.luisguacache.com/docs/manual-000.html
-- Guía inicial: https://analisis.luisguacache.com/docs/guia-inicial-v0-1.html
 - Colección 001 Trading Profesional: https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html
 - Volumen I Fundamentos del Trading: https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html
 - Volumen II Análisis Técnico Profesional: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
+- Volumen III Smart Money, Liquidez y Order Flow: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
 
 ## Volumen I: Fundamentos del Trading
 
-- Capítulo 1: Qué es el trading — https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html
-- Capítulo 2: Invertir, especular y operar — https://analisis.luisguacache.com/docs/v1-c2.html
-- Capítulo 3: Mercados principales — https://analisis.luisguacache.com/docs/v1-c3.html
-- Capítulo 4: Spot, futuros y derivados — https://analisis.luisguacache.com/docs/v1-c4.html
-- Capítulo 5: Temporalidades y estilos operativos — https://analisis.luisguacache.com/docs/v1-c5.html
-- Capítulo 6: Órdenes básicas — https://analisis.luisguacache.com/docs/v1-c6.html
-- Capítulo 7: Capital, margen y apalancamiento — https://analisis.luisguacache.com/docs/v1-c7.html
-- Capítulo 8: Riesgo por operación — https://analisis.luisguacache.com/docs/v1-c8.html
-- Capítulo 9: Psicología inicial del trader — https://analisis.luisguacache.com/docs/v1-c9.html
-- Capítulo 10: Errores comunes de principiante — https://analisis.luisguacache.com/docs/v1-c10.html
-- Capítulo 11: Checklist antes de operar — https://analisis.luisguacache.com/docs/v1-c11.html
-- Capítulo 12: Glosario básico — https://analisis.luisguacache.com/docs/v1-c12.html
+Volumen completo en versión base. Disponible como lectura web y EPUB/Kindle.
 
 ## Volumen II: Análisis Técnico Profesional
 
-Volumen completo en versión base V0.1.
+Volumen completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
-- Capítulo 1: Qué es el análisis técnico — https://analisis.luisguacache.com/docs/v2-c1.html
-- Capítulo 2: Precio, velas y lectura básica — https://analisis.luisguacache.com/docs/v2-c2.html
-- Capítulo 3: Tendencias — https://analisis.luisguacache.com/docs/v2-c3.html
-- Capítulo 4: Soportes y resistencias — https://analisis.luisguacache.com/docs/v2-c4.html
-- Capítulo 5: Máximos, mínimos y estructura — https://analisis.luisguacache.com/docs/v2-c5.html
-- Capítulo 6: Volumen — https://analisis.luisguacache.com/docs/v2-c6.html
-- Capítulo 7: Medias móviles — https://analisis.luisguacache.com/docs/v2-c7.html
-- Capítulo 8: RSI, MACD y otros indicadores — https://analisis.luisguacache.com/docs/v2-c8.html
-- Capítulo 9: Patrones gráficos — https://analisis.luisguacache.com/docs/v2-c9.html
-- Capítulo 10: Rupturas y falsas rupturas — https://analisis.luisguacache.com/docs/v2-c10.html
-- Capítulo 11: Contexto multi-temporal — https://analisis.luisguacache.com/docs/v2-c11.html
-- Capítulo 12: Checklist de análisis técnico — https://analisis.luisguacache.com/docs/v2-c12.html
+## Volumen III: Smart Money, Liquidez y Order Flow
+
+Volumen en desarrollo.
+
+- Capítulo 1: Qué es Smart Money — https://analisis.luisguacache.com/docs/v3-c1.html
 
 ## Ruta futura
 
