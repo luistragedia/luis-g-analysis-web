@@ -10,7 +10,7 @@ Web pública del proyecto **Luis G. Analysis**.
 Web pública: operativa
 Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
-Volumen II: Análisis Técnico Profesional — en desarrollo
+Volumen II: Análisis Técnico Profesional — completo base V0.1
 EPUB/Kindle: Volumen I completo disponible
 SEO/IA: robots.txt, sitemap.xml y llms.txt activos
 ```
@@ -29,15 +29,13 @@ El sitio funciona como portada pública, índice navegable, centro de descargas 
 - `docs/manual-000.html`: documento base del proyecto.
 - `docs/coleccion-001-trading-profesional.html`: colección de trading.
 - `docs/volumen-001-fundamentos-trading.html`: Volumen I completo.
-- `docs/volumen-002-analisis-tecnico-profesional.html`: Volumen II en desarrollo.
+- `docs/volumen-002-analisis-tecnico-profesional.html`: Volumen II completo base.
 
 ## Colección 001
 
 ### Volumen I — Fundamentos del Trading
 
 Estado: completo en versión base V0.2.
-
-Capítulos:
 
 ```text
 1. Qué es el trading
@@ -58,9 +56,7 @@ Disponible como lectura web y EPUB/Kindle.
 
 ### Volumen II — Análisis Técnico Profesional
 
-Estado: en desarrollo.
-
-Capítulos publicados:
+Estado: completo en versión base V0.1.
 
 ```text
 1. Qué es el análisis técnico
@@ -68,6 +64,22 @@ Capítulos publicados:
 3. Tendencias
 4. Soportes y resistencias
 5. Máximos, mínimos y estructura
+6. Volumen
+7. Medias móviles
+8. RSI, MACD y otros indicadores
+9. Patrones gráficos
+10. Rupturas y falsas rupturas
+11. Contexto multi-temporal
+12. Checklist de análisis técnico
+```
+
+## Ruta futura
+
+```text
+- EPUB/Kindle del Volumen II.
+- PDF completo del Volumen II.
+- Volumen III: Smart Money, Liquidez y Order Flow.
+- Interacción y feedback V1: me gusta, no me gusta y compartir cuando exista una primera versión completa del site.
 ```
 
 ## Archivos técnicos
