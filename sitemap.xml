@@ -4,8 +4,8 @@
   <url><loc>https://analisis.luisguacache.com/biblioteca/</loc><priority>0.8</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/guia-inicial-v0-1.html</loc><priority>0.7</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/manual-000.html</loc><priority>0.7</priority></url>
-  <url><loc>https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html</loc><priority>0.7</priority></url>
-  <url><loc>https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html</loc><priority>0.7</priority></url>
+  <url><loc>https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html</loc><priority>0.8</priority></url>
+  <url><loc>https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html</loc><priority>0.8</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/v1-c2.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/v1-c3.html</loc><priority>0.6</priority></url>
@@ -18,6 +18,9 @@
   <url><loc>https://analisis.luisguacache.com/docs/v1-c10.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/v1-c11.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/v1-c12.html</loc><priority>0.6</priority></url>
+  <url><loc>https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html</loc><priority>0.8</priority></url>
+  <url><loc>https://analisis.luisguacache.com/docs/v2-c1.html</loc><priority>0.6</priority></url>
+  <url><loc>https://analisis.luisguacache.com/docs/v2-c2.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/docs/lista-verificacion-editorial.html</loc><priority>0.6</priority></url>
   <url><loc>https://analisis.luisguacache.com/downloads/</loc><priority>0.5</priority></url>
   <url><loc>https://analisis.luisguacache.com/llms.txt</loc><priority>0.4</priority></url>
