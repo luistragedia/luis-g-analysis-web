@@ -19,19 +19,22 @@ Este sitio es una biblioteca personal de consulta. Quien encuentre valor en sus 
 - Volumen II Análisis Técnico Profesional: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
 - Volumen III Smart Money, Liquidez y Order Flow: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
 
-## Volumen I: Fundamentos del Trading
-
-Volumen completo en versión base. Disponible como lectura web y EPUB/Kindle.
-
-## Volumen II: Análisis Técnico Profesional
-
-Volumen completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
-
 ## Volumen III: Smart Money, Liquidez y Order Flow
 
-Volumen en desarrollo.
+Volumen completo en versión base V0.1.
 
 - Capítulo 1: Qué es Smart Money — https://analisis.luisguacache.com/docs/v3-c1.html
+- Capítulo 2: Liquidez — https://analisis.luisguacache.com/docs/v3-c2.html
+- Capítulo 3: Stops, barridas y capturas de liquidez — https://analisis.luisguacache.com/docs/v3-c3.html
+- Capítulo 4: Fair Value Gaps — https://analisis.luisguacache.com/docs/v3-c4.html
+- Capítulo 5: Order Blocks — https://analisis.luisguacache.com/docs/v3-c5.html
+- Capítulo 6: Breakers y Mitigation Blocks — https://analisis.luisguacache.com/docs/v3-c6.html
+- Capítulo 7: Estructura interna y externa — https://analisis.luisguacache.com/docs/v3-c7.html
+- Capítulo 8: Reacción institucional — https://analisis.luisguacache.com/docs/v3-c8.html
+- Capítulo 9: Order Flow básico — https://analisis.luisguacache.com/docs/v3-c9.html
+- Capítulo 10: Confluencias avanzadas — https://analisis.luisguacache.com/docs/v3-c10.html
+- Capítulo 11: Errores comunes con Smart Money — https://analisis.luisguacache.com/docs/v3-c11.html
+- Capítulo 12: Checklist de lectura avanzada — https://analisis.luisguacache.com/docs/v3-c12.html
 
 ## Ruta futura
 
