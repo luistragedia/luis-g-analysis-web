@@ -12,7 +12,7 @@ Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
-Volumen IV: Estrategias Operativas — iniciado V0.1
+Volumen IV: Estrategias Operativas — en desarrollo V0.1, capítulos 1 al 6 publicados
 EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
 SEO/IA: robots.txt, sitemap.xml, llms.txt y /mapa/ activos
 ```
@@ -58,27 +58,28 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 ### Volumen IV — Estrategias Operativas
 
-Estado: iniciado en versión base V0.1. Capítulo 1 publicado.
+Estado: en desarrollo en versión base V0.1. Capítulos 1 al 6 publicados.
 
 ```text
-1. Qué es una estrategia operativa
-2. Componentes de una estrategia
-3. Sesgo, contexto y condiciones de mercado
-4. Setup, gatillo y confirmación
-5. Entradas, invalidación y stop loss
-6. Objetivos, toma de beneficios y gestión activa
-7. Estrategias de continuación
-8. Estrategias de reversión
-9. Estrategias en rango
-10. Backtesting, diario y revisión
-11. Adaptación por activo, temporalidad y sesión
-12. Checklist operativo profesional
+1. Qué es una estrategia operativa — publicado
+2. Componentes de una estrategia — publicado
+3. Sesgo, contexto y condiciones de mercado — publicado
+4. Setup, gatillo y confirmación — publicado
+5. Entradas, invalidación y stop loss — publicado
+6. Objetivos, toma de beneficios y gestión activa — publicado
+7. Estrategias de continuación — pendiente
+8. Estrategias de reversión — pendiente
+9. Estrategias en rango — pendiente
+10. Backtesting, diario y revisión — pendiente
+11. Adaptación por activo, temporalidad y sesión — pendiente
+12. Checklist operativo profesional — pendiente
 ```
 
 ## Ruta futura
 
 ```text
-- Completar Volumen IV: Estrategias Operativas.
+- Completar Volumen IV: capítulos 7 al 12.
+- EPUB/Kindle del Volumen IV cuando esté completo.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.
