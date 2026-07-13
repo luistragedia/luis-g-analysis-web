@@ -12,8 +12,8 @@ Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
-Volumen IV: Estrategias Operativas — completo web base V0.1
-EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
+Volumen IV: Estrategias Operativas — completo base V0.1
+EPUB/Kindle: Volumen I, Volumen II, Volumen III y Volumen IV disponibles
 SEO/IA: robots.txt, sitemap.xml, llms.txt y /mapa/ activos
 ```
 
@@ -58,7 +58,7 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 ### Volumen IV — Estrategias Operativas
 
-Estado: completo en versión web base V0.1. EPUB/Kindle pendiente.
+Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
 ```text
 1. Qué es una estrategia operativa — publicado
@@ -75,13 +75,22 @@ Estado: completo en versión web base V0.1. EPUB/Kindle pendiente.
 12. Checklist operativo profesional — publicado
 ```
 
+## Descargas EPUB/Kindle
+
+```text
+Volumen I: https://analisis.luisguacache.com/downloads/volumen-i-fundamentos-trading-kindle-v0-2.epub
+Volumen II: https://analisis.luisguacache.com/downloads/volumen-ii-analisis-tecnico-profesional-kindle-v0-1.epub
+Volumen III: https://analisis.luisguacache.com/downloads/volumen-iii-smart-money-liquidez-order-flow-kindle-v0-1.epub
+Volumen IV: https://analisis.luisguacache.com/downloads/volumen-iv-estrategias-operativas-kindle-v0-1.epub
+```
+
 ## Ruta futura
 
 ```text
-- EPUB/Kindle del Volumen IV.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.
+- PDF completo del Volumen IV.
 - Audiolibros.
 - Interacción y feedback V1.
 ```
