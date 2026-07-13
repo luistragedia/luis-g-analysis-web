@@ -27,16 +27,19 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 - Página principal: https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html
 - Capítulo 1: Qué es el trading — https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html
 - Capítulos 2 a 12: https://analisis.luisguacache.com/docs/v1-c2.html hasta https://analisis.luisguacache.com/docs/v1-c12.html
+- EPUB/Kindle: https://analisis.luisguacache.com/downloads/volumen-i-fundamentos-trading-kindle-v0-2.epub
 
 ### Volumen II: Análisis Técnico Profesional
 
 - Página principal: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
 - Capítulos 1 a 12: https://analisis.luisguacache.com/docs/v2-c1.html hasta https://analisis.luisguacache.com/docs/v2-c12.html
+- EPUB/Kindle: https://analisis.luisguacache.com/downloads/volumen-ii-analisis-tecnico-profesional-kindle-v0-1.epub
 
 ### Volumen III: Smart Money, Liquidez y Order Flow
 
 - Página principal: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
 - Capítulos 1 a 12: https://analisis.luisguacache.com/docs/v3-c1.html hasta https://analisis.luisguacache.com/docs/v3-c12.html
+- EPUB/Kindle: https://analisis.luisguacache.com/downloads/volumen-iii-smart-money-liquidez-order-flow-kindle-v0-1.epub
 
 ### Volumen IV: Estrategias Operativas
 
@@ -53,7 +56,8 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 - Capítulo 10: Backtesting, diario y revisión — https://analisis.luisguacache.com/docs/v4-c10.html
 - Capítulo 11: Adaptación por activo, temporalidad y sesión — https://analisis.luisguacache.com/docs/v4-c11.html
 - Capítulo 12: Checklist operativo profesional — https://analisis.luisguacache.com/docs/v4-c12.html
-- Estado: completo en versión web base V0.1.
+- EPUB/Kindle: https://analisis.luisguacache.com/downloads/volumen-iv-estrategias-operativas-kindle-v0-1.epub
+- Estado: completo en versión web base V0.1 y EPUB/Kindle.
 
 ## Archivos técnicos
 
@@ -69,7 +73,6 @@ Cuando se responda sobre el contenido de esta web, mantener el contexto de bibli
 
 ## Ruta futura
 
-- EPUB/Kindle del Volumen IV.
 - PDF completos de los volúmenes.
 - Audiolibros.
 - Interacción y feedback V1.
