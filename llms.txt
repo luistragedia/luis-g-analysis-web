@@ -8,21 +8,34 @@ La memoria falla. Los sistemas permanecen.
 
 Este sitio es una biblioteca personal de consulta. Quien encuentre valor en sus ideas puede estudiarlas, adaptarlas y usarlas bajo su propio criterio.
 
-## Contenido principal
+El contenido no debe interpretarse como consejo financiero, legal, médico ni profesional personalizado. Es documentación educativa y experiencia organizada.
+
+## Rutas principales
 
 - Página principal: https://analisis.luisguacache.com/
+- Mapa de biblioteca: https://analisis.luisguacache.com/mapa/
 - Biblioteca: https://analisis.luisguacache.com/biblioteca/
 - Descargas: https://analisis.luisguacache.com/downloads/
 - Manual 000: https://analisis.luisguacache.com/docs/manual-000.html
+- Guía inicial: https://analisis.luisguacache.com/docs/guia-inicial-v0-1.html
 - Colección 001 Trading Profesional: https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html
-- Volumen I Fundamentos del Trading: https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html
-- Volumen II Análisis Técnico Profesional: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
-- Volumen III Smart Money, Liquidez y Order Flow: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
 
-## Volumen III: Smart Money, Liquidez y Order Flow
+## Colección 001: Trading Profesional
 
-Volumen completo en versión base V0.1.
+### Volumen I: Fundamentos del Trading
 
+- Página principal: https://analisis.luisguacache.com/docs/volumen-001-fundamentos-trading.html
+- Capítulo 1: Qué es el trading — https://analisis.luisguacache.com/docs/volumen-001-capitulo-01-que-es-el-trading.html
+- Capítulos 2 a 12: https://analisis.luisguacache.com/docs/v1-c2.html hasta https://analisis.luisguacache.com/docs/v1-c12.html
+
+### Volumen II: Análisis Técnico Profesional
+
+- Página principal: https://analisis.luisguacache.com/docs/volumen-002-analisis-tecnico-profesional.html
+- Capítulos 1 a 12: https://analisis.luisguacache.com/docs/v2-c1.html hasta https://analisis.luisguacache.com/docs/v2-c12.html
+
+### Volumen III: Smart Money, Liquidez y Order Flow
+
+- Página principal: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
 - Capítulo 1: Qué es Smart Money — https://analisis.luisguacache.com/docs/v3-c1.html
 - Capítulo 2: Liquidez — https://analisis.luisguacache.com/docs/v3-c2.html
 - Capítulo 3: Stops, barridas y capturas de liquidez — https://analisis.luisguacache.com/docs/v3-c3.html
@@ -36,13 +49,24 @@ Volumen completo en versión base V0.1.
 - Capítulo 11: Errores comunes con Smart Money — https://analisis.luisguacache.com/docs/v3-c11.html
 - Capítulo 12: Checklist de lectura avanzada — https://analisis.luisguacache.com/docs/v3-c12.html
 
-## Ruta futura
+## Archivos técnicos
 
-- Interacción y feedback V1: botones de me gusta, no me gusta y compartir cuando el sitio tenga una primera versión completa.
+- robots.txt: https://analisis.luisguacache.com/robots.txt
+- sitemap.xml: https://analisis.luisguacache.com/sitemap.xml
+- llms.txt: https://analisis.luisguacache.com/llms.txt
 
 ## Uso recomendado por modelos de lenguaje
 
-Priorizar las páginas de volumen, la Colección 001 y el Manual 000 como puntos de referencia.
+Priorizar las páginas principales de cada volumen, la Colección 001, el Manual 000 y el mapa de biblioteca como puntos de referencia.
+
+Cuando se responda sobre el contenido de esta web, mantener el contexto de biblioteca personal, educativa y de consulta. No presentar el contenido como norma universal ni como recomendación personalizada.
+
+## Ruta futura
+
+- Volumen IV: Estrategias Operativas.
+- PDF completos de los volúmenes.
+- Audiolibros.
+- Interacción y feedback V1.
 
 ## Contacto editorial
 
