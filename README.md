@@ -12,6 +12,7 @@ Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
+Volumen IV: Estrategias Operativas — iniciado V0.1
 EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
 SEO/IA: robots.txt, sitemap.xml, llms.txt y /mapa/ activos
 ```
@@ -30,6 +31,7 @@ Mapa: https://analisis.luisguacache.com/mapa/
 Biblioteca: https://analisis.luisguacache.com/biblioteca/
 Descargas: https://analisis.luisguacache.com/downloads/
 Colección 001: https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html
+Volumen IV: https://analisis.luisguacache.com/docs/volumen-004-estrategias-operativas.html
 ```
 
 ## Rutas técnicas
@@ -54,25 +56,29 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindle.
 
+### Volumen IV — Estrategias Operativas
+
+Estado: iniciado en versión base V0.1. Capítulo 1 publicado.
+
 ```text
-1. Qué es Smart Money
-2. Liquidez: qué es y por qué importa
-3. Stops, barridas y capturas de liquidez
-4. Fair Value Gaps
-5. Order Blocks
-6. Breakers y Mitigation Blocks
-7. Estructura interna y externa
-8. Reacción institucional
-9. Order Flow básico
-10. Confluencias avanzadas
-11. Errores comunes con Smart Money
-12. Checklist de lectura avanzada
+1. Qué es una estrategia operativa
+2. Componentes de una estrategia
+3. Sesgo, contexto y condiciones de mercado
+4. Setup, gatillo y confirmación
+5. Entradas, invalidación y stop loss
+6. Objetivos, toma de beneficios y gestión activa
+7. Estrategias de continuación
+8. Estrategias de reversión
+9. Estrategias en rango
+10. Backtesting, diario y revisión
+11. Adaptación por activo, temporalidad y sesión
+12. Checklist operativo profesional
 ```
 
 ## Ruta futura
 
 ```text
-- Volumen IV: Estrategias Operativas.
+- Completar Volumen IV: Estrategias Operativas.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.

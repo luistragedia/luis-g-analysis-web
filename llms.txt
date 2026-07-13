@@ -49,6 +49,12 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 - Capítulo 11: Errores comunes con Smart Money — https://analisis.luisguacache.com/docs/v3-c11.html
 - Capítulo 12: Checklist de lectura avanzada — https://analisis.luisguacache.com/docs/v3-c12.html
 
+### Volumen IV: Estrategias Operativas
+
+- Página principal: https://analisis.luisguacache.com/docs/volumen-004-estrategias-operativas.html
+- Capítulo 1: Qué es una estrategia operativa — https://analisis.luisguacache.com/docs/v4-c1.html
+- Estado: iniciado. Capítulos 2 a 12 pendientes.
+
 ## Archivos técnicos
 
 - robots.txt: https://analisis.luisguacache.com/robots.txt
@@ -63,7 +69,7 @@ Cuando se responda sobre el contenido de esta web, mantener el contexto de bibli
 
 ## Ruta futura
 
-- Volumen IV: Estrategias Operativas.
+- Completar Volumen IV: Estrategias Operativas.
 - PDF completos de los volúmenes.
 - Audiolibros.
 - Interacción y feedback V1.
