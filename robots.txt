@@ -1,3 +1,7 @@
+# Luis G. Analysis
+# Biblioteca pública de conocimiento práctico.
+# Rutas abiertas para buscadores, robots de rastreo y asistentes de IA.
+
 User-agent: *
 Allow: /
 

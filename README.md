@@ -13,14 +13,32 @@ Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
 EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
-SEO/IA: robots.txt, sitemap.xml y llms.txt activos
+SEO/IA: robots.txt, sitemap.xml, llms.txt y /mapa/ activos
 ```
 
 ## Objetivo
 
 Este repositorio contiene la versión web estática de una biblioteca personal de conocimiento práctico creada para organizar, preservar y compartir aprendizaje basado en experiencia, estudio, práctica, errores y documentación.
 
-El sitio funciona como portada pública, índice navegable, centro de descargas y base editorial para libros digitales, manuales y guías.
+El sitio funciona como portada pública, índice navegable, centro de descargas, mapa de biblioteca y base editorial para libros digitales, manuales y guías.
+
+## Rutas principales
+
+```text
+Inicio: https://analisis.luisguacache.com/
+Mapa: https://analisis.luisguacache.com/mapa/
+Biblioteca: https://analisis.luisguacache.com/biblioteca/
+Descargas: https://analisis.luisguacache.com/downloads/
+Colección 001: https://analisis.luisguacache.com/docs/coleccion-001-trading-profesional.html
+```
+
+## Rutas técnicas
+
+```text
+robots.txt: https://analisis.luisguacache.com/robots.txt
+sitemap.xml: https://analisis.luisguacache.com/sitemap.xml
+llms.txt: https://analisis.luisguacache.com/llms.txt
+```
 
 ## Colección 001
 
@@ -54,10 +72,11 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 ## Ruta futura
 
 ```text
+- Volumen IV: Estrategias Operativas.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.
-- Volumen IV: Estrategias Operativas.
+- Audiolibros.
 - Interacción y feedback V1.
 ```
 

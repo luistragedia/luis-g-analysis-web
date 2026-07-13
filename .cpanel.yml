@@ -14,3 +14,4 @@ deployment:
     - /bin/cp -Rf downloads ${DEPLOYPATH}
     - /bin/cp -Rf docs ${DEPLOYPATH}
     - /bin/cp -Rf biblioteca ${DEPLOYPATH}
+    - /bin/cp -Rf mapa ${DEPLOYPATH}
