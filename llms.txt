@@ -36,18 +36,7 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 ### Volumen III: Smart Money, Liquidez y Order Flow
 
 - Página principal: https://analisis.luisguacache.com/docs/volumen-003-smart-money-liquidez-order-flow.html
-- Capítulo 1: Qué es Smart Money — https://analisis.luisguacache.com/docs/v3-c1.html
-- Capítulo 2: Liquidez — https://analisis.luisguacache.com/docs/v3-c2.html
-- Capítulo 3: Stops, barridas y capturas de liquidez — https://analisis.luisguacache.com/docs/v3-c3.html
-- Capítulo 4: Fair Value Gaps — https://analisis.luisguacache.com/docs/v3-c4.html
-- Capítulo 5: Order Blocks — https://analisis.luisguacache.com/docs/v3-c5.html
-- Capítulo 6: Breakers y Mitigation Blocks — https://analisis.luisguacache.com/docs/v3-c6.html
-- Capítulo 7: Estructura interna y externa — https://analisis.luisguacache.com/docs/v3-c7.html
-- Capítulo 8: Reacción institucional — https://analisis.luisguacache.com/docs/v3-c8.html
-- Capítulo 9: Order Flow básico — https://analisis.luisguacache.com/docs/v3-c9.html
-- Capítulo 10: Confluencias avanzadas — https://analisis.luisguacache.com/docs/v3-c10.html
-- Capítulo 11: Errores comunes con Smart Money — https://analisis.luisguacache.com/docs/v3-c11.html
-- Capítulo 12: Checklist de lectura avanzada — https://analisis.luisguacache.com/docs/v3-c12.html
+- Capítulos 1 a 12: https://analisis.luisguacache.com/docs/v3-c1.html hasta https://analisis.luisguacache.com/docs/v3-c12.html
 
 ### Volumen IV: Estrategias Operativas
 
@@ -58,7 +47,13 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 - Capítulo 4: Setup, gatillo y confirmación — https://analisis.luisguacache.com/docs/v4-c4.html
 - Capítulo 5: Entradas, invalidación y stop loss — https://analisis.luisguacache.com/docs/v4-c5.html
 - Capítulo 6: Objetivos, toma de beneficios y gestión activa — https://analisis.luisguacache.com/docs/v4-c6.html
-- Estado: en desarrollo. Capítulos 1 a 6 publicados; capítulos 7 a 12 pendientes.
+- Capítulo 7: Estrategias de continuación — https://analisis.luisguacache.com/docs/v4-c7.html
+- Capítulo 8: Estrategias de reversión — https://analisis.luisguacache.com/docs/v4-c8.html
+- Capítulo 9: Estrategias en rango — https://analisis.luisguacache.com/docs/v4-c9.html
+- Capítulo 10: Backtesting, diario y revisión — https://analisis.luisguacache.com/docs/v4-c10.html
+- Capítulo 11: Adaptación por activo, temporalidad y sesión — https://analisis.luisguacache.com/docs/v4-c11.html
+- Capítulo 12: Checklist operativo profesional — https://analisis.luisguacache.com/docs/v4-c12.html
+- Estado: completo en versión web base V0.1.
 
 ## Archivos técnicos
 
@@ -74,7 +69,7 @@ Cuando se responda sobre el contenido de esta web, mantener el contexto de bibli
 
 ## Ruta futura
 
-- Completar Volumen IV: Estrategias Operativas.
+- EPUB/Kindle del Volumen IV.
 - PDF completos de los volúmenes.
 - Audiolibros.
 - Interacción y feedback V1.

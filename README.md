@@ -12,7 +12,7 @@ Colección 001: Trading Profesional
 Volumen I: Fundamentos del Trading — completo V0.2
 Volumen II: Análisis Técnico Profesional — completo base V0.1
 Volumen III: Smart Money, Liquidez y Order Flow — completo base V0.1
-Volumen IV: Estrategias Operativas — en desarrollo V0.1, capítulos 1 al 6 publicados
+Volumen IV: Estrategias Operativas — completo web base V0.1
 EPUB/Kindle: Volumen I, Volumen II y Volumen III disponibles
 SEO/IA: robots.txt, sitemap.xml, llms.txt y /mapa/ activos
 ```
@@ -58,7 +58,7 @@ Estado: completo en versión base V0.1. Disponible como lectura web y EPUB/Kindl
 
 ### Volumen IV — Estrategias Operativas
 
-Estado: en desarrollo en versión base V0.1. Capítulos 1 al 6 publicados.
+Estado: completo en versión web base V0.1. EPUB/Kindle pendiente.
 
 ```text
 1. Qué es una estrategia operativa — publicado
@@ -67,19 +67,18 @@ Estado: en desarrollo en versión base V0.1. Capítulos 1 al 6 publicados.
 4. Setup, gatillo y confirmación — publicado
 5. Entradas, invalidación y stop loss — publicado
 6. Objetivos, toma de beneficios y gestión activa — publicado
-7. Estrategias de continuación — pendiente
-8. Estrategias de reversión — pendiente
-9. Estrategias en rango — pendiente
-10. Backtesting, diario y revisión — pendiente
-11. Adaptación por activo, temporalidad y sesión — pendiente
-12. Checklist operativo profesional — pendiente
+7. Estrategias de continuación — publicado
+8. Estrategias de reversión — publicado
+9. Estrategias en rango — publicado
+10. Backtesting, diario y revisión — publicado
+11. Adaptación por activo, temporalidad y sesión — publicado
+12. Checklist operativo profesional — publicado
 ```
 
 ## Ruta futura
 
 ```text
-- Completar Volumen IV: capítulos 7 al 12.
-- EPUB/Kindle del Volumen IV cuando esté completo.
+- EPUB/Kindle del Volumen IV.
 - PDF completo del Volumen I.
 - PDF completo del Volumen II.
 - PDF completo del Volumen III.
