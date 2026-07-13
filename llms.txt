@@ -53,7 +53,12 @@ El contenido no debe interpretarse como consejo financiero, legal, médico ni pr
 
 - Página principal: https://analisis.luisguacache.com/docs/volumen-004-estrategias-operativas.html
 - Capítulo 1: Qué es una estrategia operativa — https://analisis.luisguacache.com/docs/v4-c1.html
-- Estado: iniciado. Capítulos 2 a 12 pendientes.
+- Capítulo 2: Componentes de una estrategia — https://analisis.luisguacache.com/docs/v4-c2.html
+- Capítulo 3: Sesgo, contexto y condiciones de mercado — https://analisis.luisguacache.com/docs/v4-c3.html
+- Capítulo 4: Setup, gatillo y confirmación — https://analisis.luisguacache.com/docs/v4-c4.html
+- Capítulo 5: Entradas, invalidación y stop loss — https://analisis.luisguacache.com/docs/v4-c5.html
+- Capítulo 6: Objetivos, toma de beneficios y gestión activa — https://analisis.luisguacache.com/docs/v4-c6.html
+- Estado: en desarrollo. Capítulos 1 a 6 publicados; capítulos 7 a 12 pendientes.
 
 ## Archivos técnicos
 
